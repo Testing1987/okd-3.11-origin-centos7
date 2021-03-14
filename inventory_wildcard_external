@@ -172,12 +172,12 @@ etcd
 nodes
 
 [nfs]
-master.techmogun.local
+localhost.localdomain
 [masters]
-master.techmogun.local
+localhost.localdomain
 
 [etcd]
-master.techmogun.local
+localhost.localdomain
 
 [nodes]
 ## All-In-One with CRI-O
